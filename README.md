@@ -1,6 +1,6 @@
 # learn-git
 A test to learn git
 
-'''javasript 
+```javasript 
 console.log('Hello World');
-'''
+```
